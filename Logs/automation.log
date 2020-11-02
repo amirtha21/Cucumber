@@ -1,0 +1,31 @@
+2020-11-01 13:18:12,375  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2020-11-01 13:18:12,472  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2020-11-01 13:18:17,161  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2020-11-01 13:18:29,267  INFO [main] nopcommerce:93 - *********Login Validation starts ***************
+2020-11-01 13:18:29,347  INFO [main] nopcommerce:102 - *********Login successfull ***************
+2020-11-01 13:18:34,369  INFO [main] nopcommerce:110 - *********Logout from application***************
+2020-11-01 13:36:39,695  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2020-11-01 13:36:39,720  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2020-11-01 13:36:43,902  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2020-11-01 13:36:55,318  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2020-11-01 13:36:55,322  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2020-11-01 13:37:02,629  INFO [main] nopcommerce:160 - ********* Providing Customer details ***************
+2020-11-01 13:37:11,395  INFO [main] nopcommerce:186 - ********* Add customer validation ***************
+2020-11-01 13:37:11,551  INFO [main] nopcommerce:116 - *********Closing application ***************
+2020-11-01 13:37:15,821  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2020-11-01 13:37:15,822  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2020-11-01 13:37:19,541  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2020-11-01 13:37:28,571  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2020-11-01 13:37:28,572  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2020-11-01 13:37:34,781  INFO [main] nopcommerce:195 - ********* Search Customer by Email ID Scenario started ***************
+2020-11-01 13:37:37,997  INFO [main] nopcommerce:209 - ********* Search customer by email validation ***************
+2020-11-01 13:37:38,100  INFO [main] nopcommerce:116 - *********Closing application ***************
+2020-11-01 13:37:42,112  INFO [main] nopcommerce:65 - ********* Launching browser***************
+2020-11-01 13:37:42,113  INFO [main] nopcommerce:71 - ********* Opening URL***************
+2020-11-01 13:37:46,128  INFO [main] nopcommerce:79 - ********* Proving user info ***************
+2020-11-01 13:37:54,474  INFO [main] nopcommerce:126 - ********* Adding Customer Scenario started  ***************
+2020-11-01 13:37:54,475  INFO [main] nopcommerce:128 - ********* Dashboard Display validation ***************
+2020-11-01 13:38:00,654  INFO [main] nopcommerce:217 - ********* Seqarch custoemr by Name Scenario started ***************
+2020-11-01 13:38:00,769  INFO [main] nopcommerce:224 - ********* Providing customer name ***************
+2020-11-01 13:38:03,983  INFO [main] nopcommerce:231 - ********* Search customer by name validation ***************
+2020-11-01 13:38:04,051  INFO [main] nopcommerce:116 - *********Closing application ***************
